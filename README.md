@@ -20,4 +20,6 @@ Region: Attributes related to a group of stores in the region
 ## Problem Statement:
 Predict the sales at the register in the current hour and prioritize the individual attributes that affect the sales.
 
-Reference https://dphi.tech/challenges/juniper-networks-global-ai-challenge/286/overview/about
+
+
+reference https://dphi.tech/challenges/juniper-networks-global-ai-challenge/286/overview/about
